@@ -1,0 +1,118 @@
+
+!!!!!!!!!!!!!!!!!!!!    Parem de Fuçar e façam o seu   !!!!!!!!!!!!!!!!!!!!
+
+
+aovivonatv="http://aovivonatv.com/assistir-chapecoense-x-gremio-ao-vivo-sem-travar/"
+
+PxStream="http://aovivonatv.com/assistir-chapecoense-x-gremio-ao-vivo-sem-travar/opmobile/10142/"
+
+Torcedor="ver26b257c24d5408e03ef71b"
+
+sportsdevil="http://tv-msn.com/player-grande/natgeowild.html"
+
+EsportesTV="pfc-7"
+
+Master="109.200.202.124@animal"
+
+##### Torcedor #####
+
+Jogo 1  ver36ec8025fc681d92b77fa1
+
+Jogo 2  ver5059701488fcca6c622d24
+
+Jogo 3  ver8b1f11ec23e010737aaed9
+
+Jogo 4  ver8b1f11ec23e010737aaed9
+
+Jogo 5  ver7944538bf6b8a76ace5b0c
+
+Jogo 6  verbccfaf15b9e3fc36b991e1
+
+Jogo 7  ver1ac58af675cae59f5cf206
+
+Jogo 8  verae1fbc10f1fe27a41f4b75
+
+Master  veraac0e069e8201e780eee8d
+
+Jogo 9  ver26b257c24d5408e03ef71b
+
+Jogo 10 verc5aef23d02040437d1928e
+
+Jogo 11 ver285e0a36510c4d1d9231a4
+
+Jogo 12 verf42e036b84e4e93e787255
+
+Jogo 13 ver6bace4d421842d431f734e
+
+
+
+##### PxStream #####
+
+SporTv          slv0
+
+SporTv 2        spo224ha
+
+SporTv 3        spo224ha
+
+PREMIERE        futebol
+
+ESPN BRASIL     slv10
+
+Band Sportes    ch002a
+
+Ei Max          max1.stream
+
+Ei Max 2        max2.stream
+
+FOX SPORTS      foxsportshd
+
+GLOBO SP        slv9
+ 
+GLOBO RJ        canal-globo-rj
+
+GLOBO RBS       slv5
+
+GLOBO MG        canal-globo-minas-hd
+
+GLOBO NORDESTE  71126475575815531516
+
+RECORD          record2278
+
+BAND            agua1
+
+REDE TV         master300
+
+
+##### EsportsTv #####
+
+pfc     ch84-1
+
+pfc 1   ch40-1
+
+pfc 2   ch45-1
+
+pfc 3   ch47-1
+
+pfc 4   ch11-1
+
+pfc 5   ch38-1
+
+pfc 9   ch07-1
+
+pfc 10  ch02-1
+
+
+##### MasterTv #####
+
+http://tv-msn.com/player-grande/natgeowild.html
+
+http://tv-msn.com/disneyxd.html
+
+http://tv-msn.com/player-grande/espnbrasilvip.html
+
+http://tv-msn.com/player-grande/space.html
+
+http://tv-msn.com/player-grande/discohd.html
+
+
+
